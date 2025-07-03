@@ -1,0 +1,28 @@
+.column3 {
+    float:left;
+    width: 25%;
+ }
+.content3 {
+    padding:10px;
+ }
+.fnt3{
+    font-family:Arial, Helvetica, sans-serif ;
+    font-size: 1rem;
+    text-align :justify;
+    word-spacing :1px;
+    text-indent :20px;
+    color: aliceblue;
+ }
+
+ .col-4{
+    width: 50%;
+}
+.col-5{
+    width: 25%;
+}
+.bimg{
+    max-width :80%;
+    height:auto ;
+    margin-left :15px;
+    border-radius: 15px; 
+}
